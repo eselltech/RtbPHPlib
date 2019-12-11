@@ -31,7 +31,7 @@ function main(){
     $adsolt->slotid="25075828";
    
     /**
-     * 广告位类型  IMG / Video
+     * 广告位类型  IMG/VDO
      */
     $adsolt->type="IMG";
     
