@@ -48,8 +48,7 @@
             "slot-id"=> $adSlotModel->slotid,
             "quantity"=>$adSlotModel->quantity,
             "type"=> $adSlotModel->type,
-            "ip"=> "",
-            "debug"=>"esell"
+            "ip"=> ""
         );
 
         $sign=$this->sign($adSlotModel,$payload,$timestamp,$timestamp);
